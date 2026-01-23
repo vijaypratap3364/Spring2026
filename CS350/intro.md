@@ -7,3 +7,15 @@ Abstraction and Great Seven+1 Ideas:
         Digital Abstraction
         Boolean Logic:
             AND, OR, XOR, NOR, NAND and NOT
+        
+        Computer Architecture:
+                System Architecture:
+                    Processor
+                    Memory
+                    Input/Output
+                    Control 
+                    Datapath
+                Instruction set Architecture
+                Machine Language 
+                Assembly Language
+
