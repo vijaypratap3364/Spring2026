@@ -5,24 +5,22 @@
 # Student Email:vpratapsingh@hawk.illinoistech.edu
 
 # Course: CS 350 Computer Organization and Assembly Language Programming
-# Assignment: Lab-02
+# Assignment: Lab-01
 
-# Summary of Assignment Purpose: 
+# Summary of Assignment Purpose: Use of Switch function
 # Date of Initial Creation: 01/23/2026
 
-# Description of Program Purpose: 
+# Description of Program Purpose: Successfully programmed and executed the code using switch function to prompt user to enter a choice to display different word messages and exit the program on specific choice.
 #
 # Functions and Modules in this file:
-		# Function/Module Name:
-		# Summary of Purpose:
-		# Input/Stored Value Requirements:
-		# Values Stored/Returned:
+		# Function/Module Name: LAB 1 exercise 4
+		# Summary of Purpose: Use of Switch Function
+		# Input/Stored Value Requirements: int, while, printf, scanf and swtich functions used 
+		# Values Stored/Returned: specific word messages linked with specific choices made by user
 
 # Additional Required Files:
 #
 #***************************************
-
-
 
 
 #include <stdio.h>
